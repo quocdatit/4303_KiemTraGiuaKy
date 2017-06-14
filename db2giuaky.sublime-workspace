@@ -1,0 +1,730 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"foreach\t<?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"iss",
+				"isset〔function〕"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"glob",
+				"global〔keyword〕"
+			],
+			[
+				"ma",
+				"$maLMH〔variable〕"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"requ",
+				"require_once〔function〕"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"req",
+				"require_once〔function〕"
+			],
+			[
+				"reque",
+				"require_once〔function〕"
+			],
+			[
+				"db2_fe",
+				"db2_fetch_assoc"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"strto",
+				"strtoupper〔function〕"
+			],
+			[
+				"err",
+				"error_reporting〔function〕"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"bs3-but",
+				"bs3-button:success\tbs3-button-success"
+			],
+			[
+				"define",
+				"define〔function〕"
+			],
+			[
+				"defin",
+				"define〔function〕"
+			],
+			[
+				"defi",
+				"define〔function〕"
+			],
+			[
+				"chec",
+				"checkSession"
+			],
+			[
+				"pa",
+				"$params〔variable〕"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"uns",
+				"unset〔function〕"
+			],
+			[
+				"ses",
+				"session_destroy〔function〕"
+			],
+			[
+				"head",
+				"header〔function〕"
+			],
+			[
+				"_CO",
+				"$_COOKIE〔variable〕"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"my",
+				"$myModel〔variable〕"
+			],
+			[
+				"_PO",
+				"$_POST〔variable〕"
+			],
+			[
+				"empt",
+				"empty〔function〕"
+			],
+			[
+				"db2_exe",
+				"db2_execute"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"PASS",
+				"PASSWORD_DEFAULT〔constant〕"
+			],
+			[
+				"pass",
+				"password_hash〔function〕"
+			],
+			[
+				"ins",
+				"installer"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"meta",
+				"$metaTitle〔variable〕"
+			],
+			[
+				"pro",
+				"protected〔keyword〕"
+			],
+			[
+				"con",
+				"contentView"
+			],
+			[
+				"ap",
+				"application/"
+			],
+			[
+				"Ma",
+				"MaDCS"
+			],
+			[
+				"c",
+				"createSchema〔function〕"
+			],
+			[
+				"db",
+				"db2〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"s",
+				"strQuery〔variable〕"
+			],
+			[
+				"db2_ex",
+				"db2_exec"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"connec",
+				"$connection〔variable〕"
+			],
+			[
+				"library",
+				"library"
+			],
+			[
+				"libra",
+				"library"
+			],
+			[
+				"load",
+				"load_view\tCI - Load View"
+			],
+			[
+				"par",
+				"parent〔keyword〕"
+			],
+			[
+				"up",
+				"upload"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"exp",
+				"explode〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"PATH_S",
+				"PATH_SYSTEM〔constant〕"
+			],
+			[
+				"inclu",
+				"include_once〔keyword〕"
+			],
+			[
+				"app",
+				"$app〔variable〕"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"lo",
+				"load_view\tCI - Load View"
+			],
+			[
+				"_SE",
+				"$_SERVER〔variable〕"
+			],
+			[
+				"de",
+				"defined"
+			],
+			[
+				"repl",
+				"str_replace"
+			],
+			[
+				"pri",
+				"print_r〔function〕"
+			],
+			[
+				"cla",
+				"class\tclass …"
+			],
+			[
+				"ac",
+				"$action〔variable〕"
+			],
+			[
+				"me",
+				"method_exists"
+			],
+			[
+				"control",
+				"controller"
+			],
+			[
+				"contr",
+				"$controller〔variable〕"
+			],
+			[
+				"def",
+				"defined〔function〕"
+			],
+			[
+				"DEF",
+				"DEFAULT_CONTROLLER〔constant〕"
+			],
+			[
+				"_GET",
+				"$_GET〔variable〕"
+			],
+			[
+				"PA",
+				"PATH_SYSTEM"
+			],
+			[
+				"mys",
+				"mysql_connect〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 75,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/db2giuaky/GUI"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/db2giuaky/GUI/ThemMH.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/SuaMH.php",
+		"/D/xampp/htdocs/db2giuaky/DAL/MatHang.php",
+		"/D/xampp/htdocs/db2giuaky/BLL/SuaMH.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/SuaLMH.php",
+		"/D/xampp/htdocs/db2giuaky/BLL/ThemMH.php",
+		"/D/xampp/htdocs/db2giuaky/config.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/TrangChu.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/XoaMH.php",
+		"/D/xampp/htdocs/db2giuaky/BLL/XoaMH.php",
+		"/D/xampp/htdocs/db2giuaky/BLL/TrangChu.php",
+		"/D/xampp/htdocs/db2giuaky/DAL/LoaiMH.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/XoaLMH.php",
+		"/D/xampp/htdocs/db2giuaky/BLL/XoaLMH.php",
+		"/D/xampp/htdocs/db2giuaky/BLL/Xoa.php",
+		"/D/xampp/htdocs/db2giuaky/BLL/ThemLMH.php",
+		"/D/xampp/htdocs/db2giuaky/BLL/SuaLMH.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/ThemLMH.php",
+		"/D/xampp/htdocs/db2giuaky/runQuery.php",
+		"/D/xampp/htdocs/db2giuaky/BLL/Them.php",
+		"/D/xampp/htdocs/db2giuaky/index.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/partials/css.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/partials/js.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/Sua.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/Xoa.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/Them.php",
+		"/D/FrontEnd/Templates/AdminLTE-master/AdminLTE-master/pages/forms/advanced.html",
+		"/D/xampp/htdocs/db2giuaky/BLL/Sua.php",
+		"/D/xampp/htdocs/db2giuaky/GUI/partials/header.php",
+		"/D/xampp/htdocs/db2giuaky/them.php",
+		"/F/E/HOC TAP/csdl-db2.sql",
+		"/D/xampp/htdocs/db2giuaky/query.php",
+		"/D/xampp/htdocs/db2giuaky/helper.php",
+		"/E/HOC TAP/4210 - C#/14DC012_QLSV/14DC012_QLSV/frmMain.cs",
+		"/E/HOC TAP/4210 - C#/QLDoanVien/QuanlyDV.txt",
+		"/D/xampp/htdocs/qldoanvien/system/core/QD_Controller.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/taikhoan/dangnhap.php",
+		"/D/xampp/htdocs/qldoanvien/public/css/myStyle.css",
+		"/D/xampp/htdocs/qldoanvien/public/js/myJs.js",
+		"/D/xampp/htdocs/qldoanvien/admin/controller/Taikhoan.php",
+		"/D/xampp/htdocs/qldoanvien/admin/model/Taikhoan_Model.php",
+		"/D/xampp/htdocs/qldoanvien/admin/controller/Installer.php",
+		"/D/xampp/htdocs/qldoanvien/admin/model/Installer_Model.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/partials/header.php",
+		"/D/xampp/htdocs/qldoanvien/system/core/Application.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/taikhoan/quenmatkhau.php",
+		"/D/xampp/htdocs/qldoanvien/system/core/QD_Model.php",
+		"/D/xampp/htdocs/qldoanvien/system/library/DB2_Library.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/partials/js.php",
+		"/D/xampp/htdocs/qldoanvien/admin/controller/Doanvien.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/main_layout.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/doanvien/them.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/home.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/doanvien/home.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/partials/css.php",
+		"/D/TEMPLATE/AdminLTE-master/AdminLTE-master/pages/examples/login.html",
+		"/D/xampp/htdocs/qldoanvien/admin/view/taikhoan_layout.php",
+		"/D/xampp/htdocs/qldoanvien/admin/controller/Home.php",
+		"/D/xampp/htdocs/qldoanvien/system/config/config.php",
+		"/D/TEMPLATE/AdminLTE-master/AdminLTE-master/index.html",
+		"/D/xampp/htdocs/qldoanvien/admin/view/partials/footer.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/partials/sidebar.php",
+		"/D/xampp/htdocs/qldoanvien/admin/index.php",
+		"/D/xampp/htdocs/qldoanvien/index.php",
+		"/D/xampp/htdocs/qldoanvien/admin/view/home/myhome.php",
+		"/D/xampp/htdocs/qldoanvien/system/core/Loader/View_Loader.php",
+		"/D/xampp/htdocs/qldoanvien/admin/model/Admin_Model.php",
+		"/D/xampp/htdocs/qldoanvien/application/model/Demo_Model.php",
+		"/D/xampp/htdocs/qldoanvien/application/controller/Home.php",
+		"/D/xampp/htdocs/qldoanvien/system/config/database.php",
+		"/C/Users/quocd/Downloads/test.php",
+		"/C/Users/quocd/Downloads/testAjax.php",
+		"/D/xampp/htdocs/qldoanvien/system/helper/DB2_Helper.php",
+		"/D/xampp/htdocs/qldoanvien/system/core/Loader/Model_Loader.php",
+		"/D/xampp/htdocs/qldoanvien/system/core/Loader/Helper_Loader.php",
+		"/D/xampp/htdocs/qldoanvien/system/core/QD_Loader.php",
+		"/D/xampp/htdocs/QD-Framework/.git/config",
+		"/D/xampp/htdocs/qldoanvien/application/view/view.php",
+		"/D/xampp/htdocs/qldoanvien/system/library/Upload_Library.php",
+		"/D/xampp/htdocs/qldoanvien/system/core/Loader/Library_Loader.php",
+		"/D/xampp/htdocs/qldoanvien/application/config/database.php",
+		"/D/xampp/htdocs/qldoanvien/system/core/Loader/Config_Loader.php",
+		"/D/xampp/htdocs/qldoanvien/application/config/config.php",
+		"/D/xampp/htdocs/qldoanvien/admin/config/config.php",
+		"/D/xampp/htdocs/qldoanvien/.htaccess",
+		"/D/xampp/htdocs/qldoanvien/admin/controller/Setting.php",
+		"/D/xampp/htdocs/qldoanvien/admin/config/constant.php",
+		"/D/xampp/htdocs/qldoanvien/application/config/constant.php",
+		"/D/xampp/htdocs/dom/dom.php",
+		"/D/xampp/htdocs/qldoanvien/application/view/partials/header.php",
+		"/D/xampp/htdocs/qldoanvien/application/controller/Setting.php",
+		"/D/xampp/htdocs/qldoanvien/system/core/QD_View.php",
+		"/E/TRUNG TAM/Archive/dom/dom.php",
+		"/D/xampp/htdocs/qldoanvien/public/images/index.html",
+		"/D/xampp/htdocs/qldoanvien/application/index.html",
+		"/D/xampp/htdocs/qldoanvien/application/view/partials/index.html",
+		"/D/xampp/htdocs/qldoanvien/public/index.html",
+		"/D/xampp/htdocs/qldoanvien/public/css/index.html",
+		"/D/xampp/htdocs/qldoanvien/public/js/index.html",
+		"/D/xampp/htdocs/qldoanvien/system/index.html",
+		"/D/xampp/htdocs/qldoanvien/system/core/index.html",
+		"/D/xampp/htdocs/qldoanvien/system/helper/index.html",
+		"/D/xampp/htdocs/qldoanvien/system/library/index.html",
+		"/D/xampp/htdocs/qldoanvien/system/config.php",
+		"/D/xampp/htdocs/qldoanvien/application/view/index.html",
+		"/D/xampp/htdocs/qldoanvien/application/model/index.html",
+		"/D/xampp/htdocs/qldoanvien/application/controller/index.html",
+		"/D/xampp/htdocs/db2/test.php",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/D/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/d/xampp/php/php.ini",
+		"/C/Users/quocd/Downloads/php-5.5.38/php-5.5.38/README.md",
+		"/C/Users/quocd/Downloads/php-5.5.38/php-5.5.38/run-tests.php",
+		"/C/Users/quocd/Downloads/php-5.5.38/php-5.5.38/INSTALL",
+		"/D/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/Users/quocd/Downloads/Technology_Explorer_v4.2_for_IBM_DB2/config.php",
+		"/D/xampp/htdocs/tcu-online/application/modules/information/controllers/Student.php",
+		"/D/xampp/htdocs/tcu-online/application/modules/dashboard/controllers/Dashboard.php",
+		"/D/xampp/htdocs/tcu-online/application/modules/account/controllers/Authentication.php",
+		"/D/xampp/htdocs/tcu-online/application/modules/organization/controllers/Clss.php",
+		"/D/xampp/htdocs/tcu-online/application/modules/conduct/controllers/Criterias.php",
+		"/D/ROBOCON 2017/code scan Line 2 sensor-tai D14.txt",
+		"/D/xampp/htdocs/tcu-online/system/core/Router.php",
+		"/D/xampp/htdocs/tcu-online/system/core/Output.php",
+		"/D/xampp/htdocs/tcu-online/application/modules/information/views/student/addone.php",
+		"/D/xampp/htdocs/cnpm/libs/config.php",
+		"/D/xampp/htdocs/tcu-online/application/views/partials/sidebar.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"errThemSV",
+			"clickThemSV",
+			"library",
+			"db2",
+			"ibm",
+			"DB2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "db2giuaky.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\xampp\\htdocs\\qldoanvien\\qldoanvien.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
